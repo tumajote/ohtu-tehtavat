@@ -1,9 +1,8 @@
 *.tmp
-viikko1/*
+
 .nb-gradle/
 build/
 gradle/
-salasanat.txt
 
 .gradle
 /build/
@@ -18,5 +17,4 @@ gradle-app.setting
 .gradletasknamecache
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
-# gradle/wrapper/gradle-wrapper.properties
-viikko1/NhlStatistics1/.gradle
+# gradle/wrapper/gradle-wrapper.propertiesviikko1/NhlStatistics1/.gradle
